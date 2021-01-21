@@ -3,7 +3,7 @@
 	"displayName": "GitHub Dark Classic theme",
 	"description": "GitHub theme for VS Code",
 	"version": "1.1.5",
-	"publisher": "GitHub",
+	"publisher": "BerriJ",
 	"license": "MIT",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -12,10 +12,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/primer/github-vscode-theme-dark-classic"
+		"url": "https://github.com/BerriJ/github-vscode-theme-dark-classic"
 	},
 	"bugs": {
-		"url": "https://github.com/primer/github-vscode-theme-dark-classic/issues"
+		"url": "https://github.com/BerriJ/github-vscode-theme-dark-classic/issues"
 	},
 	"engines": {
 		"vscode": "^1.43.0"
